@@ -1,0 +1,107 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+#main-rad{
+    margin-top: 4rem;
+}
+.first-para-rad{
+    font-size: 14px;
+    color: #9298AD !important;
+}
+.first-heading-rad{
+    font-size: 32px poppins,Avenir;
+    color: #1F2129;
+    margin: 0 0 28px;
+    line-height: 2.5rem;
+}
+.second-para-rad{
+    font-size: 18px;
+    color: #4E5468;
+    margin: 0 0 24px;
+}
+.btn{
+    color: #FFFFFF;
+    font-size: 18px;
+    background-color: #356ae6;
+    margin: 0 10px 36px !important;
+    padding: 16px 20px;
+    width: 330px;
+    transition: none;
+    height: 60px;
+}
+.third-para-rad{
+    color: #4E5468;
+    font-size: 16px;
+    margin: 16px 0 90px;
+
+}
+a::after{
+    content:'';
+    width:0 ;
+    height: 2px;
+    background-color: #356ae6;
+   display: block;
+    margin: auto;
+    transition: .9s ;
+ }
+/* a:hover::after{
+    width:10px;
+ } */
+#second-items-rad{
+    background-color: #fafbff;
+    padding: 64px 20px;
+}
+.second-heading-rad{
+    font-size: 32px poppins,Avenir ;
+    color: #1F2129;
+    margin: 0 0 20px !important;
+}
+.forth-para-rad{
+    color: #4E5468;
+    font-size: 18px poppins,Avenir;
+    margin: 18px 0;
+}
+.fifth-heading-rad{
+    color: #1F2129;
+    font-size: 20px;
+    margin: 0px 38.4375px 20pxt;
+}
+.list-rad{
+    color: #1F2129;
+    font-size: 18px;
+    margin: 0 0 12px;
+}
+#third-items-rad{
+    background-color: #e3ebfc;
+    padding: 64px 20px;
+}
+.sisth-heading-rad{
+    color: #1F2129;
+    font-size: 32px;
+    margin: 0 0 32px;
+    padding-bottom: 40px;
+}
+.fifth-para-rad{
+    color: #4E5468;
+    font-size: 16px;
+    margin: 16px 0;
+}
+#forth-item-rad{
+    color:#1F2129;
+    font-size: 18px;
+    padding: 120px 00px;
+}
+.seventh-heading-rad{
+    color:#1F2129;
+    font-size: 20px;
+    text-align: justify;
+}
+.sisth-para-rad{
+    color:#4E5468;
+    font-size: 20px;
+    text-align: justify;
+}
+.seventh-para-rad{
+    color:#1F2129;
+    font-size: 18px;
+    margin: 0 0 18px;
+    
+}
